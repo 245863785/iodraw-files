@@ -426,7 +426,7 @@
             <mxPoint x="-50" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XLoJgL7E7rh_gQBJe30P-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;i←y-1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XLoJgL7E7rh_gQBJe30P-27" vertex="1">
+        <mxCell id="XLoJgL7E7rh_gQBJe30P-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;i←y-1&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XLoJgL7E7rh_gQBJe30P-27" vertex="1">
           <mxGeometry width="81.81818181818183" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLoJgL7E7rh_gQBJe30P-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;While i%x=0 &amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;i%y=0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;i&amp;lt;z&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XLoJgL7E7rh_gQBJe30P-27" vertex="1">
@@ -467,7 +467,7 @@
         <mxCell id="pVdme-egTXns_gEIVDHW-9" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;i←x-1&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pVdme-egTXns_gEIVDHW-15" vertex="1">
           <mxGeometry width="81.81818181818183" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pVdme-egTXns_gEIVDHW-14" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;While i%y=0 &amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;i%x=0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;i&amp;lt;z&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pVdme-egTXns_gEIVDHW-15" vertex="1">
+        <mxCell id="pVdme-egTXns_gEIVDHW-14" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;While i%y=0 &amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;i%x=0&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;i&amp;lt;z&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pVdme-egTXns_gEIVDHW-15" vertex="1">
           <mxGeometry x="81.81818181818183" width="81.81818181818183" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVdme-egTXns_gEIVDHW-21" value="" style="endArrow=none;html=1;rounded=0;" parent="pVdme-egTXns_gEIVDHW-22" edge="1">
