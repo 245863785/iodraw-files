@@ -2683,7 +2683,7 @@
           <mxGeometry x="175" y="660" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-12" value="调用子程序输出缓冲区信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="890" width="220" height="80" as="geometry" />
+          <mxGeometry x="165" y="760" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1020" width="60" height="40" as="geometry" />
