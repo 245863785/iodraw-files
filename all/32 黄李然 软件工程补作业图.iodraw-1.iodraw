@@ -2659,10 +2659,10 @@
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
