@@ -59,6 +59,9 @@
         <mxCell id="3UUVhSlr0nvDiNfW4VBk-6" value="&lt;b&gt;身份信息及验证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="345" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lLVgXRDrwpQTXZJtHC_E-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3UUVhSlr0nvDiNfW4VBk-7" target="3UUVhSlr0nvDiNfW4VBk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3UUVhSlr0nvDiNfW4VBk-7" value="&lt;b&gt;查询类型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="345" width="80" height="40" as="geometry" />
         </mxCell>
