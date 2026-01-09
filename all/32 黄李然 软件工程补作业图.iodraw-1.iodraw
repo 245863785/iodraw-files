@@ -1371,7 +1371,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R07uoWwnWf-oxHfjZLOE-20" value="读者" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="573" width="240" height="128" as="geometry" />
+          <mxGeometry x="130" y="585" width="240" height="128" as="geometry" />
         </mxCell>
         <mxCell id="R07uoWwnWf-oxHfjZLOE-21" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-name: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-useid: int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="R07uoWwnWf-oxHfjZLOE-20" vertex="1">
           <mxGeometry y="26" width="240" height="34" as="geometry" />
@@ -1436,13 +1436,13 @@
           <mxGeometry x="200" y="330" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R07uoWwnWf-oxHfjZLOE-44" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="205" y="541" width="30" height="30" as="geometry" />
+          <mxGeometry x="205" y="553" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R07uoWwnWf-oxHfjZLOE-45" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="541" width="30" height="30" as="geometry" />
+          <mxGeometry x="270" y="553" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R07uoWwnWf-oxHfjZLOE-47" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300" y="539" width="30" height="30" as="geometry" />
+          <mxGeometry x="300" y="551" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R07uoWwnWf-oxHfjZLOE-51" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="464" y="541" width="30" height="30" as="geometry" />
@@ -1478,7 +1478,7 @@
           <mxGeometry x="310" y="280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCJP_tywOE6rVw9zl14G-1" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;32 黄李然&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientDirection=north;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="314" y="468" width="180" height="60" as="geometry" />
+          <mxGeometry x="310" y="430" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
