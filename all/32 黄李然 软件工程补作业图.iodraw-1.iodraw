@@ -2597,13 +2597,10 @@
           <mxGeometry x="370" y="338" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1jdYskrZ23YOCrhbqvG3-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="450" height="60" as="geometry" />
+          <mxGeometry x="100" y="400" width="450" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1jdYskrZ23YOCrhbqvG3-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="490" as="sourcePoint" />
-            <mxPoint x="160" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1jdYskrZ23YOCrhbqvG3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.101;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1jdYskrZ23YOCrhbqvG3-35" target="1jdYskrZ23YOCrhbqvG3-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
