@@ -2658,7 +2658,7 @@
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-4" value="输入N，输入关键字KEYWORD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
