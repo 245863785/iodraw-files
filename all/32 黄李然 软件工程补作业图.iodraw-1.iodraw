@@ -2943,7 +2943,7 @@
             <mxPoint x="360" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pcV3wXagdPUq01ls3HMd-39" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pcV3wXagdPUq01ls3HMd-39" value="G" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
