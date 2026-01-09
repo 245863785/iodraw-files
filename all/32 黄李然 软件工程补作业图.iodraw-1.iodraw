@@ -2677,10 +2677,10 @@
           <mxGeometry x="145" y="420" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-10" value="MATCH=MATCH+1&lt;div&gt;保存MATCH到缓冲区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-11" value="MATCH=N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="770" width="100" height="60" as="geometry" />
+          <mxGeometry x="175" y="660" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-12" value="调用子程序输出缓冲区信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="890" width="220" height="80" as="geometry" />
