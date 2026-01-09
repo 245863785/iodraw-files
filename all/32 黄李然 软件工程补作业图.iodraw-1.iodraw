@@ -766,7 +766,7 @@
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-1" target="wmmkTKtWQLNY0aLaVBNf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmmkTKtWQLNY0aLaVBNf-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;score&amp;gt;person1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wmmkTKtWQLNY0aLaVBNf-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;score&amp;gt;person1&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-2" target="wmmkTKtWQLNY0aLaVBNf-3" edge="1">
@@ -775,7 +775,7 @@
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-2" target="wmmkTKtWQLNY0aLaVBNf-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmmkTKtWQLNY0aLaVBNf-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;score&amp;gt;person2&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wmmkTKtWQLNY0aLaVBNf-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;score&amp;gt;person2&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-3" target="wmmkTKtWQLNY0aLaVBNf-4" edge="1">
