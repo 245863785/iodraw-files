@@ -784,7 +784,7 @@
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-3" target="wmmkTKtWQLNY0aLaVBNf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmmkTKtWQLNY0aLaVBNf-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;score&amp;gt;person3&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wmmkTKtWQLNY0aLaVBNf-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;score&amp;gt;person3&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-4" target="wmmkTKtWQLNY0aLaVBNf-5" edge="1">
@@ -793,7 +793,7 @@
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-4" target="wmmkTKtWQLNY0aLaVBNf-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wmmkTKtWQLNY0aLaVBNf-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;score&amp;gt;person4&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wmmkTKtWQLNY0aLaVBNf-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;score&amp;gt;person4&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="720" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wmmkTKtWQLNY0aLaVBNf-5" target="wmmkTKtWQLNY0aLaVBNf-10" edge="1">
@@ -811,7 +811,7 @@
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-8" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;person5=person4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;person4=person3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;person3=score&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmmkTKtWQLNY0aLaVBNf-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;person5=person4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;person4=score&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wmmkTKtWQLNY0aLaVBNf-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;person5=person4&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;person4=score&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-10" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;person5=score&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
