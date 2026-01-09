@@ -1573,7 +1573,7 @@
           <mxGeometry x="666" y="210" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dA2dtU_CCSNE5bf1Xs7K-37" value="&lt;b&gt;退出&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="634" y="620" width="50" height="30" as="geometry" />
+          <mxGeometry x="690" y="620" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dA2dtU_CCSNE5bf1Xs7K-38" value="&lt;b&gt;是否找到&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="319" y="268" width="70" height="30" as="geometry" />
