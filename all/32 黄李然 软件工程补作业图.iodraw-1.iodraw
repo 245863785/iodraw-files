@@ -2869,13 +2869,13 @@
           <mxGeometry x="70" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pcV3wXagdPUq01ls3HMd-19" value="H" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pcV3wXagdPUq01ls3HMd-20" value="l（1）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pcV3wXagdPUq01ls3HMd-21" value="C" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
