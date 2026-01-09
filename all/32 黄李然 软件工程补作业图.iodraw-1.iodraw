@@ -2566,8 +2566,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1jdYskrZ23YOCrhbqvG3-23" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="1jdYskrZ23YOCrhbqvG3-23" value="F" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
