@@ -2523,7 +2523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0cViO6pVTBK6Q38O4JeP" name="第 22 页">
-    <mxGraphModel dx="336" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="388" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2564,12 +2564,6 @@
             <Array as="points">
               <mxPoint x="275" y="320" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1jdYskrZ23YOCrhbqvG3-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="360" as="sourcePoint" />
-            <mxPoint x="440" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
