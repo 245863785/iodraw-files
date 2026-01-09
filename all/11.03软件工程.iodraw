@@ -711,8 +711,8 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-54" value="退出服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-58" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-58" value="选择服务类型" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
