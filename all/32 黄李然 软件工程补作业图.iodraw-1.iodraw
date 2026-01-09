@@ -2659,7 +2659,7 @@
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-4" value="输入N，输入关键字KEYWORD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-5" value="i=0，&lt;div&gt;MATCH=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
@@ -2692,7 +2692,7 @@
           <mxGeometry x="490" y="905" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-16" value="输出&lt;div&gt;NO MATCH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1000" width="90" height="50" as="geometry" />
+          <mxGeometry x="485" y="1000" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
