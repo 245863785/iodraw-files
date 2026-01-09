@@ -1033,10 +1033,10 @@
         <mxCell id="D4yNCnBGhlL7QvK7Thc7-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;课程分配&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D4yNCnBGhlL7QvK7Thc7-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;登录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D4yNCnBGhlL7QvK7Thc7-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;登录&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D4yNCnBGhlL7QvK7Thc7-13" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;打印任课通知书&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D4yNCnBGhlL7QvK7Thc7-13" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;打印任课通知书&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="175" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D4yNCnBGhlL7QvK7Thc7-14" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;选课&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
