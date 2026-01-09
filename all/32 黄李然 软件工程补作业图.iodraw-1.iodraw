@@ -603,7 +603,7 @@
         <mxCell id="pWCwDWKViG8cq4Ivii8t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="pWCwDWKViG8cq4Ivii8t-1" target="pWCwDWKViG8cq4Ivii8t-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pWCwDWKViG8cq4Ivii8t-1" value="无效的卡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pWCwDWKViG8cq4Ivii8t-1" value="&lt;b&gt;无效的卡&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="35" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWCwDWKViG8cq4Ivii8t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pWCwDWKViG8cq4Ivii8t-2" target="pWCwDWKViG8cq4Ivii8t-4" edge="1">
