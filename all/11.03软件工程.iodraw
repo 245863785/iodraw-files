@@ -546,6 +546,9 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-3" value="ATM机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-6" value="a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
