@@ -1074,8 +1074,8 @@
         <mxCell id="Qz8lubenDxEraz-9sK-W-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;人事局&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="110" width="80" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Qz8lubenDxEraz-9sK-W-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;招聘单位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="124" width="70" height="40" as="geometry" />
+        <mxCell id="Qz8lubenDxEraz-9sK-W-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;招聘单位&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="110" width="80" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Qz8lubenDxEraz-9sK-W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Qz8lubenDxEraz-9sK-W-18" target="Qz8lubenDxEraz-9sK-W-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1095,7 +1095,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qz8lubenDxEraz-9sK-W-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="174" width="10" height="50" as="geometry" />
+          <mxGeometry x="440" y="174" width="10" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Qz8lubenDxEraz-9sK-W-23" value="" style="endArrow=open;html=1;rounded=0;entryX=0.998;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" target="Qz8lubenDxEraz-9sK-W-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
