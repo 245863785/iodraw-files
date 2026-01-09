@@ -2114,6 +2114,9 @@
         <mxCell id="xGeXBwkxPEnrAzgnUlK9-1" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;32 黄李然&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientDirection=north;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="610" y="277" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gfGWQlUlox0Rw8dWlJ3W-1" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;48 杨昕颖&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9AC7BF;fillColor=#8DD8F8;gradientColor=#FFCCE6;gradientDirection=north;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
