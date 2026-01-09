@@ -653,7 +653,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-36" value="存款" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-37" value="取款" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
