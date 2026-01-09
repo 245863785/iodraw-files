@@ -700,7 +700,7 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-53" value="继续服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-54" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-54" value="退出服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
