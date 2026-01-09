@@ -576,11 +576,6 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-9" value="密码不正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="178" y="120" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Zq1JkTlj8yEXXMLRCnB-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="217.66666666666663" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-10" value="密码正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="178" y="150" width="80" height="30" as="geometry" />
         </mxCell>
