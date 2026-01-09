@@ -696,13 +696,13 @@
         <mxCell id="pWCwDWKViG8cq4Ivii8t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pWCwDWKViG8cq4Ivii8t-14" target="pWCwDWKViG8cq4Ivii8t-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pWCwDWKViG8cq4Ivii8t-14" value="账户余额不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pWCwDWKViG8cq4Ivii8t-14" value="&lt;b&gt;账户余额不足&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWCwDWKViG8cq4Ivii8t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pWCwDWKViG8cq4Ivii8t-15" target="pWCwDWKViG8cq4Ivii8t-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pWCwDWKViG8cq4Ivii8t-15" value="超出提款上限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pWCwDWKViG8cq4Ivii8t-15" value="&lt;b&gt;超出提款上限&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pWCwDWKViG8cq4Ivii8t-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pWCwDWKViG8cq4Ivii8t-16" target="pWCwDWKViG8cq4Ivii8t-17" edge="1">
