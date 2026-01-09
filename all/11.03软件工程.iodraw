@@ -543,8 +543,13 @@
             <mxPoint x="210" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5Zq1JkTlj8yEXXMLRCnB-2">
+          <mxGeometry x="-0.6172" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-3" value="ATM机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
