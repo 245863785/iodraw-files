@@ -53,7 +53,7 @@
         <mxCell id="Czf3qagabDb2J5p8bMck-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="3UUVhSlr0nvDiNfW4VBk-5" target="3UUVhSlr0nvDiNfW4VBk-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UUVhSlr0nvDiNfW4VBk-5" value="输出查看结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3UUVhSlr0nvDiNfW4VBk-5" value="&lt;b&gt;输出查看结果&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="235" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3UUVhSlr0nvDiNfW4VBk-6" value="&lt;b&gt;身份信息及验证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -62,16 +62,16 @@
         <mxCell id="3UUVhSlr0nvDiNfW4VBk-7" value="&lt;b&gt;查询类型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="345" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3UUVhSlr0nvDiNfW4VBk-8" value="按照书名查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3UUVhSlr0nvDiNfW4VBk-8" value="&lt;b&gt;按照书名查询&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="465" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3UUVhSlr0nvDiNfW4VBk-9" value="按照ISBN号查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3UUVhSlr0nvDiNfW4VBk-9" value="&lt;b&gt;按照ISBN号查询&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="465" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3UUVhSlr0nvDiNfW4VBk-10" value="按照类别查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="465" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3UUVhSlr0nvDiNfW4VBk-11" value="查询结果显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3UUVhSlr0nvDiNfW4VBk-11" value="&lt;b&gt;查询结果显示&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="325" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
