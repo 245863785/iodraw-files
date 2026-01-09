@@ -972,7 +972,7 @@
           <mxGeometry x="390" y="470" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nk-BbuBjZh7Ql-SNyc3--1" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;32 黄李然&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientDirection=north;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="350" y="190" width="180" height="60" as="geometry" />
+          <mxGeometry x="340" y="210" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
