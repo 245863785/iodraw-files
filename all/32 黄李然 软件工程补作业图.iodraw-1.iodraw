@@ -202,7 +202,7 @@
         <mxCell id="REHnFhrzsvRhpLMYc6ER-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-19" target="_ECJGRoIYmG6TVwprHKH-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ECJGRoIYmG6TVwprHKH-19" value="i←i+1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ECJGRoIYmG6TVwprHKH-19" value="&lt;b&gt;i←i+1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="309" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="REHnFhrzsvRhpLMYc6ER-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-20" target="_ECJGRoIYmG6TVwprHKH-19" edge="1">
@@ -227,7 +227,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ECJGRoIYmG6TVwprHKH-23" value="i%x==0&amp;amp;&amp;amp;i%y==&lt;div&gt;0&amp;amp;&amp;amp;i&amp;lt;z&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ECJGRoIYmG6TVwprHKH-23" value="&lt;b&gt;i%x==0&amp;amp;&amp;amp;i%y==&lt;/b&gt;&lt;div&gt;&lt;b&gt;0&amp;amp;&amp;amp;i&amp;lt;z&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="94" y="610" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="REHnFhrzsvRhpLMYc6ER-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-24" target="_ECJGRoIYmG6TVwprHKH-19" edge="1">
@@ -246,7 +246,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ECJGRoIYmG6TVwprHKH-24" value="i%x==0&amp;amp;&amp;amp;i%y==&lt;div&gt;0&amp;amp;&amp;amp;i&amp;lt;z&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ECJGRoIYmG6TVwprHKH-24" value="&lt;b&gt;i%x==0&amp;amp;&amp;amp;i%y==&lt;/b&gt;&lt;div&gt;&lt;b&gt;0&amp;amp;&amp;amp;i&amp;lt;z&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_ECJGRoIYmG6TVwprHKH-25" value="输出i" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
