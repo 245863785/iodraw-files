@@ -312,13 +312,13 @@
             <mxPoint x="320" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2whJ0ZT6ZjAWCZCHssI-19" value="输出i" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e2whJ0ZT6ZjAWCZCHssI-19" value="&lt;b&gt;输出i&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2whJ0ZT6ZjAWCZCHssI-20" value="i←i+1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e2whJ0ZT6ZjAWCZCHssI-20" value="&lt;b&gt;i←i+1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="600" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2whJ0ZT6ZjAWCZCHssI-21" value="输出i" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e2whJ0ZT6ZjAWCZCHssI-21" value="&lt;b&gt;输出i&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2whJ0ZT6ZjAWCZCHssI-22" value="i←i+1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
