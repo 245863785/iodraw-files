@@ -573,48 +573,48 @@
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="378" y="150" as="sourcePoint" />
-            <mxPoint x="408" y="150" as="targetPoint" />
+            <mxPoint x="301" y="150" as="sourcePoint" />
+            <mxPoint x="331" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="332" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Zq1JkTlj8yEXXMLRCnB-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="409" y="150" as="sourcePoint" />
-            <mxPoint x="459" y="100" as="targetPoint" />
+            <mxPoint x="332" y="150" as="sourcePoint" />
+            <mxPoint x="382" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-16" value="输入不正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="409" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="332" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-17" value="输入正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="409" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="332" y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529" y="150" as="sourcePoint" />
-            <mxPoint x="619" y="150" as="targetPoint" />
+            <mxPoint x="452" y="150" as="sourcePoint" />
+            <mxPoint x="542" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-19" value="重新输入密码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="529" y="127" width="90" height="30" as="geometry" />
+          <mxGeometry x="452" y="127" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="542" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Zq1JkTlj8yEXXMLRCnB-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="619" y="150" as="sourcePoint" />
-            <mxPoint x="669" y="100" as="targetPoint" />
+            <mxPoint x="542" y="150" as="sourcePoint" />
+            <mxPoint x="592" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-22" value="输入不正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="619" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="542" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-23" value="输入正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="624" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="547" y="150" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
