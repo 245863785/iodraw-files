@@ -535,7 +535,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="127" width="80" height="60" as="geometry" />
+          <mxGeometry x="10" y="120" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Zq1JkTlj8yEXXMLRCnB-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -544,7 +544,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-3" value="ATM机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
