@@ -261,9 +261,6 @@
         <mxCell id="REHnFhrzsvRhpLMYc6ER-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-25" target="_ECJGRoIYmG6TVwprHKH-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EZwQS45aUlrlkMZJN71L-1" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;32 黄李然&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientDirection=north;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="14" y="260" width="180" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
