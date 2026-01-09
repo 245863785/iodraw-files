@@ -2688,8 +2688,8 @@
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1020" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="900" width="80" height="80" as="geometry" />
+        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-14" value="N=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="930" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
