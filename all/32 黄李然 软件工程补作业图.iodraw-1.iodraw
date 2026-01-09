@@ -1273,31 +1273,31 @@
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-8" value="&lt;b&gt;办理图书出入库&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="500" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-9" value="检索图书" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-9" value="&lt;b&gt;检索图书&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="160" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-10" value="办理图书借阅" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-10" value="&lt;b&gt;办理图书借阅&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="240" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-11" value="归还图书" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-11" value="&lt;b&gt;归还图书&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="340" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" parent="1" source="XWnIn3yjDsOWcWerTvsQ-12" target="XWnIn3yjDsOWcWerTvsQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-12" value="记录库存" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-12" value="&lt;b&gt;记录库存&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="450" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" parent="1" source="XWnIn3yjDsOWcWerTvsQ-17" target="XWnIn3yjDsOWcWerTvsQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-17" value="记录外借情况" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-17" value="&lt;b&gt;记录外借情况&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" parent="1" source="XWnIn3yjDsOWcWerTvsQ-18" target="XWnIn3yjDsOWcWerTvsQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-18" value="记录图书变更时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-18" value="&lt;b&gt;记录图书变更时间&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="590" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-35" value="《include》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
