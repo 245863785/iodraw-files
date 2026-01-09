@@ -2614,8 +2614,8 @@
         <mxCell id="1jdYskrZ23YOCrhbqvG3-57" value="T" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1jdYskrZ23YOCrhbqvG3-58" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="1jdYskrZ23YOCrhbqvG3-58" value="(C&amp;gt;A)Or(D&amp;lt;B)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
