@@ -600,6 +600,11 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-16" value="输入不正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="120" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Zq1JkTlj8yEXXMLRCnB-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.33333333333326" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-17" value="输入正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="150" width="110" height="30" as="geometry" />
         </mxCell>
@@ -676,12 +681,6 @@
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-37" value="取款" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546" y="340" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Zq1JkTlj8yEXXMLRCnB-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="386" y="225" as="sourcePoint" />
-            <mxPoint x="388.73" y="181.79000000000008" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
