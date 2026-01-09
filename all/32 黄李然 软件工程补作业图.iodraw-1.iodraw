@@ -883,9 +883,6 @@
         <mxCell id="wmmkTKtWQLNY0aLaVBNf-42" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="908" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iToiSYpPbHPA3O6FZyLh-1" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;32 黄李然&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientDirection=north;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="110" y="938" width="180" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
