@@ -568,6 +568,9 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-10" value="密码正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Zq1JkTlj8yEXXMLRCnB-11" target="5Zq1JkTlj8yEXXMLRCnB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-11" value="输入密码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="156" y="127" width="60" height="30" as="geometry" />
         </mxCell>
