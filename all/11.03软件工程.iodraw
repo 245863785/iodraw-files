@@ -530,7 +530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XG4qX-1Zk3ig2TDl_Po-" name="第 5 页">
-    <mxGraphModel dx="492" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="515" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -691,6 +691,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Zq1JkTlj8yEXXMLRCnB-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="268.8965475148168" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -705,6 +710,9 @@
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-54" value="退出服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-58" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
