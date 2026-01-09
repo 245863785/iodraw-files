@@ -3018,7 +3018,7 @@
         <mxCell id="pcV3wXagdPUq01ls3HMd-58" value="处理零件表*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pcV3wXagdPUq01ls3HMd-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pcV3wXagdPUq01ls3HMd-59" value="处理零件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="705" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pcV3wXagdPUq01ls3HMd-60" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -3042,7 +3042,7 @@
         </mxCell>
         <mxCell id="pcV3wXagdPUq01ls3HMd-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="690" as="sourcePoint" />
+            <mxPoint x="230" y="700" as="sourcePoint" />
             <mxPoint x="230" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
