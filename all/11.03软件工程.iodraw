@@ -558,7 +558,7 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234" y="149" as="sourcePoint" />
-            <mxPoint x="414" y="149" as="targetPoint" />
+            <mxPoint x="450" y="150" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -570,6 +570,12 @@
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-11" value="输入密码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="176" y="127" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
