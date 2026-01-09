@@ -1241,7 +1241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-1" value="管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="280" width="30" height="60" as="geometry" />
+          <mxGeometry x="80" y="280" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="XWnIn3yjDsOWcWerTvsQ-2" target="XWnIn3yjDsOWcWerTvsQ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1255,7 +1255,7 @@
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-2" value="读者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XWnIn3yjDsOWcWerTvsQ-5" value="建立图书书目" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XWnIn3yjDsOWcWerTvsQ-5" value="&lt;b&gt;建立图书书目&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XWnIn3yjDsOWcWerTvsQ-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" parent="1" source="XWnIn3yjDsOWcWerTvsQ-6" target="XWnIn3yjDsOWcWerTvsQ-10" edge="1">
