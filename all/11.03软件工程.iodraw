@@ -620,12 +620,12 @@
           <mxGeometry x="258" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-28" value="重新&lt;div&gt;输入密码&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="30" width="90" height="30" as="geometry" />
+          <mxGeometry x="690" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="280" as="sourcePoint" />
-            <mxPoint x="550" y="280" as="targetPoint" />
+            <mxPoint x="640" y="148.89" as="sourcePoint" />
+            <mxPoint x="700" y="148.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
