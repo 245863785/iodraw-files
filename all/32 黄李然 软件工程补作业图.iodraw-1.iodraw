@@ -165,7 +165,7 @@
         <mxCell id="_ECJGRoIYmG6TVwprHKH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-15" target="_ECJGRoIYmG6TVwprHKH-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ECJGRoIYmG6TVwprHKH-15" value="z←x*y" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ECJGRoIYmG6TVwprHKH-15" value="&lt;b&gt;z←x*y&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="194" y="270" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="REHnFhrzsvRhpLMYc6ER-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-16" target="_ECJGRoIYmG6TVwprHKH-17" edge="1">
@@ -184,7 +184,7 @@
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ECJGRoIYmG6TVwprHKH-16" value="x&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;y&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ECJGRoIYmG6TVwprHKH-16" value="&lt;b&gt;x&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;y&lt;/span&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="179" y="340" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="REHnFhrzsvRhpLMYc6ER-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ECJGRoIYmG6TVwprHKH-17" target="_ECJGRoIYmG6TVwprHKH-18" edge="1">
