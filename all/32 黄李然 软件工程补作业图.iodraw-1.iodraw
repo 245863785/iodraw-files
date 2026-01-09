@@ -2572,7 +2572,7 @@
         <mxCell id="1jdYskrZ23YOCrhbqvG3-24" value="T" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1jdYskrZ23YOCrhbqvG3-25" value="输入A,B,C,D" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1jdYskrZ23YOCrhbqvG3-25" value="(A&amp;gt;0)And(B&amp;gt;0)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
