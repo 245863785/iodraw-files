@@ -1024,13 +1024,13 @@
         <mxCell id="D4yNCnBGhlL7QvK7Thc7-9" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;名单管理&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="70" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D4yNCnBGhlL7QvK7Thc7-10" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;成绩管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D4yNCnBGhlL7QvK7Thc7-10" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;成绩管理&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D4yNCnBGhlL7QvK7Thc7-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;" parent="1" source="D4yNCnBGhlL7QvK7Thc7-11" target="D4yNCnBGhlL7QvK7Thc7-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D4yNCnBGhlL7QvK7Thc7-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;课程分配&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D4yNCnBGhlL7QvK7Thc7-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;课程分配&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D4yNCnBGhlL7QvK7Thc7-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;登录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
