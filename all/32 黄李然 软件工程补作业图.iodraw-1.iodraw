@@ -2648,7 +2648,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_q5ncboj2JUidnHIWTyW" name="第 23 页">
-    <mxGraphModel dx="502" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2700,8 +2700,14 @@
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-10" value="MATCH=MATCH+1&lt;div&gt;保存MATCH到缓冲区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pQUZwbFcgZcZ4M0UnbqY-11" target="pQUZwbFcgZcZ4M0UnbqY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-11" value="MATCH=N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pQUZwbFcgZcZ4M0UnbqY-12" target="pQUZwbFcgZcZ4M0UnbqY-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-12" value="调用子程序输出缓冲区信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="760" width="130" height="70" as="geometry" />
