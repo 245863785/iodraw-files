@@ -2661,11 +2661,14 @@
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-4" value="输入N，输入关键字KEYWORD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-5" value="i=0，&lt;div&gt;MATCH=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQUZwbFcgZcZ4M0UnbqY-6" value="开始" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQUZwbFcgZcZ4M0UnbqY-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
