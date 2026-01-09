@@ -1528,7 +1528,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dA2dtU_CCSNE5bf1Xs7K-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="686" y="590" width="30" height="30" as="geometry" />
+          <mxGeometry x="700" y="590" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dA2dtU_CCSNE5bf1Xs7K-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="dA2dtU_CCSNE5bf1Xs7K-12" target="dA2dtU_CCSNE5bf1Xs7K-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1567,7 +1567,7 @@
           <mxGeometry x="339" y="538" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dA2dtU_CCSNE5bf1Xs7K-35" value="拒绝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="509" y="528" width="50" height="30" as="geometry" />
+          <mxGeometry x="556" y="508" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dA2dtU_CCSNE5bf1Xs7K-36" value="&lt;b&gt;退出&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="666" y="210" width="50" height="30" as="geometry" />
