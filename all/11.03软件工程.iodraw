@@ -619,6 +619,9 @@
         <mxCell id="5Zq1JkTlj8yEXXMLRCnB-27" value="重新&lt;div&gt;输入密码&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="258" y="120" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Zq1JkTlj8yEXXMLRCnB-28" value="重新&lt;div&gt;输入密码&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
